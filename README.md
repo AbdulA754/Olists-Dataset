@@ -1,1 +1,1 @@
-# Olists-Dataset
+# Olists-Dataset this is my portion of the project we completed on olists E-commerce store, I looked at customer satisfaction and factors that could affect it.
