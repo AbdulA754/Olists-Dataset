@@ -1,1 +1,1 @@
-# Olists-Dataset this is my portion of the project we completed on olists E-commerce store, I looked at customer satisfaction and factors that could affect it.
+# This is my work and analysis into the olists dataset- what I investigated was customer satisfaction, using review score as a reflection of satisfaction as higher review scores indicate customers being more satisfied. I wanted to see what was possibly leaving customers unsatisfied and to see if there was a way to have customers leave feeling more satisfied.
