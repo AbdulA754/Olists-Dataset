@@ -18,3 +18,8 @@ Key Insights:
 Outcome:
 An interactive multi-page Power BI dashboard was developed to explore customer satisfaction trends across multiple product attributes. The dashboard enables filtering by product characteristics to identify drivers of negative and positive customer experiences.
 
+Business Impact:
+- Improve product listings by enforcing minimum standards for description completeness and image count
+- Investigate underperforming product categories to identify root causes of low satisfaction
+- Standardise product metadata requirements to improve consistency in customer experience
+- Use review score trends to proactively identify products requiring optimisation
