@@ -1,18 +1,19 @@
-This project explores customer satisfaction within the Olist e-commerce dataset. Using review scores as a proxy for customer satisfaction, I aimed to identify the key factors influencing positive and negative experiences.
+Project Overview:
+This project analyses customer satisfaction using the Olist e-commerce dataset, with review scores used as a proxy for customer experience. The aim was to identify key drivers of satisfaction and dissatisfaction and translate findings into actionable business insights.
 
-The goal was to uncover what might be leaving customers unsatisfied and to find actionable insights that could help improve the overall customer experience.
+Objective:
+To understand what factors influence customer review scores and identify patterns that contribute to negative customer experiences across product listings and fulfilment attributes.
 
- 📊 Tools Used
-- Python (for data cleaning and translation)
-- Power BI (for data modeling and visualization)
+Tools Used:
+Python (data cleaning, preprocessing, and translation)
+Power BI (data modelling and interactive dashboard creation)
 
-🔍 Key Focus Areas
-- Review scores and their relation to product attributes
-- Impact of product description length
-- Impact of product name length
-- How the number of photos in the listing affect satisfaction
-- Specific products that leave customers unsatisfied
-- Impact of the product's size
+Key Insights:
+Products with shorter descriptions were more frequently associated with lower review scores
+Listings with a higher number of product images generally received better customer ratings
+Certain product categories consistently underperformed in satisfaction metrics
+Product size and listing quality showed measurable impact on customer experience
+Low-rated products were often linked to inconsistent or incomplete product information
 
-📈 Outcome
-Created an interactive, multi-page Power BI report with clear visuals, and collaborated with a team to publish a shared dashboard.
+Outcome:
+An interactive multi-page Power BI dashboard was developed to explore customer satisfaction trends across multiple product attributes. The dashboard enables filtering by product characteristics to identify drivers of negative and positive customer experiences.
